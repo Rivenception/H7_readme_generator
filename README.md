@@ -34,7 +34,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Demo
 
-[![ReadMe Tutorial Video Download](https://drive.google.com/file/d/1y73T_uvMIi3sovb4ACipAbS0TUMibEwF/view?usp=sharing)]
+[ReadMe Tutorial Video Download](https://drive.google.com/file/d/1y73T_uvMIi3sovb4ACipAbS0TUMibEwF/view?usp=sharing)
 
 <img src="./readme_demo.gif">
 
