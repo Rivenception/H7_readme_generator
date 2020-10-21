@@ -36,6 +36,6 @@ THEN I am taken to the corresponding section of the README
 
 <img src="./readme_demo.gif">
 
-<img src="./node_example.png">
+<img src="./img/node_example.PNG">
 
-<img src="./img/markdown.png">
+<img src="./img/markdown.PNG">
