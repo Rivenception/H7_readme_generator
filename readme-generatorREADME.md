@@ -39,5 +39,5 @@ Not Applicable
 
 For any questions you can contact me at rbsm88@yahoo.com
 
-[![Github](./img/github.png)](https://github.com/rivenception)
+[![Github](./readme-assets/github.png)](https://github.com/rivenception)
 

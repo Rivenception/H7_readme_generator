@@ -76,7 +76,7 @@ function generateMarkdown(data) {
 
     For any questions you can contact me at ${data.email}
 
-    [![Github](./img/github.png)](https://github.com/${data.github})
+    [![Github](./readme-assets/github.png)](https://github.com/${data.github})
 
     `;
 
